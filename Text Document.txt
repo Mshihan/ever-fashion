@@ -1,1 +1,2 @@
-This is my-text branch
+This is my-text branch and switched
+Now I'm on the master branch
