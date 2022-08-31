@@ -2,4 +2,3 @@ This is my-text branch and switched
 Now I'm on the master branch
 This is my-text branch.
 Now I'm on my-path.
-
