@@ -17,3 +17,11 @@ jobs:
                   import platform
                   print(platform.processor())
               shell: python
+    run-windows-command:
+        runs-on: windows-latest
+        steps:
+            - name: Dictionary powershell
+              run: Get-Location
+            - name: Dictionary bash
+              run: pwd
+              shell: bash
